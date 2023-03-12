@@ -4,7 +4,7 @@
     "test": "jest --coverage"
   },
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/sum.js",
   "license": "MIT",
   "dependencies": {
     "jest": "^29.5.0"
